@@ -1,0 +1,4 @@
+{
+	"Ease and wizz.jsx" : "ADOBE_AE_SCRIPT_UI",
+	"easingExpressions" : "ADOBE_AE_SCRIPT_UI"
+}
