@@ -7,33 +7,22 @@ En el proyecto hay una serie de scripts jsx (javascript) para el programa After 
 
 El proyecto consta de los siguientes archivos:
 
+```
 .Proyecto
-
 ├── assets
-
 │   ├── pac1_alt.wav
-
 │   ├── pac1.csv
-
 │   ├── pac1-fix.csv
-
 │   └── pac1.wav
-
 └── scripts
-
     ├── ease-and-wizz-2.5.3
-
     ├── ease-and-wizz-helper.jsx
-
     ├── launch-from-jsx-toolkit.jsx
-
     ├── layermanager.jsx
-
     ├── main.jsx
-
     ├── run-ame.jsx
-
     └── utils.jsx
+```
 
 En la carpeta Assets tenemos los recursos necesarios, pac1.csv y pac1.wav.
 
